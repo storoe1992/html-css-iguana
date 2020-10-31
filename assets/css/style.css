@@ -1,0 +1,160 @@
+body * {
+    margin: 0;
+    border: 0;
+    padding: 0;
+}
+
+p {
+    color: #ffffff;
+    font-family: 'Raleway', sans-serif;
+}
+
+.image-class {
+    background-color: #000000;
+}
+
+.image-class img{
+    background-color: #000000;
+    width: 100%;
+}
+
+header {
+    background-color: #000000;
+    padding: 0.1rem 0px;
+}
+h1 {
+    color: #ffffff;
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+    font-size: 3.125rem;
+}
+
+h2 {
+    color: #ffffff;
+    font-family: 'Raleway', sans-serif;
+    font-size: 2.5rem;
+}
+
+.desc-section {
+    background-color: #000000;
+    width: 100%;
+    white-space: nowrap
+}
+
+.centrado {
+    width: 75%;
+    margin: 0 auto;
+}
+
+.iguana-description-container{
+    margin: 0 auto;
+    width: 70%;
+}
+
+.iguana-description{
+    display: inline-block;
+    width: 29.688rem;
+    vertical-align: middle;
+    white-space: normal;
+    margin: 4.688rem 0 4.688rem 0;
+}
+
+.desc-section div img{
+    width: 24.938rem;
+    vertical-align: middle;
+    display: inline-block;
+    margin: 2.813rem 0 4.125rem 6.625rem;
+}
+
+.desc-section div p{
+    font-size: 1rem;
+}
+
+.section-caracteristicas{
+    background-color: #1E1A13;
+    padding: 3.125rem 1.275rem;
+}
+
+.caracteristicas-title{
+    text-align: center;
+    vertical-align: middle;
+    margin: 4.688 0 3.125rem 0;
+}
+
+.caracteristica{
+    display: inline-block;
+    margin: 3.125rem 5em 4.625rem 5em;
+    width: 20%;
+}
+
+
+.iconos{
+    color: #ffffff;
+    display: block;
+    margin: 0 0 1rem 0;
+}
+
+.iconos i{
+    display: block;
+    margin: 0 auto;
+    width: 20%;
+}
+
+
+
+
+.caracteristica p{
+    font-size: 1.563rem;
+    text-align: center;
+}
+
+.section-images{
+    background-color: #000000;
+    width: 100%;
+    margin: 0 auto;
+}
+
+.section-image div img{
+    width: 100%;
+}
+
+.iguana-images{
+    width: 30%;
+    display: inline-block;
+    margin : 4.563rem 1rem 4.563rem 1rem;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: red;
+    padding: 10rem 0.1rem 10rem 0.1rem;
+}
+
+.iguana-images-1{
+  background-image: url("../img/iguana-2.jpg");
+}
+.iguana-images-2{
+  background-image: url("../img/iguana-3.jpg");
+}
+.iguana-images-3{
+  background-image: url("../img/iguana-4.jpg");
+}
+
+.iguana-images img{
+    width: 100%;
+}
+
+footer{
+    background-color: #1E1A13;
+    padding : 2.375rem 0 2.375rem 0;
+}
+
+a {
+    display: block;
+    text-align: center;
+    text-decoration: none;
+    color: #ffffff;
+    font-family: 'Raleway', sans-serif;
+    font-size: 1.25rem;
+}
+
+
+
